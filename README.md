@@ -1,7 +1,7 @@
 # Agenda de Contatos
 
 Criando uma agenda de contatos
-- Usando banco de dados sqflite para armazenar os dado.
+- Usando banco de dados sqflite para armazenar os dados
 - Realizando as 4 operações do CRUD: Criar contato, Atualizar, Deletar e Buscar
 - Relizando consultas SQL
 - Usando parte nativas do android como acessar a câmera e emcaminhar um número para ligação
